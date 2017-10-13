@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="search_item_margin">8dp</dimen>
+    <dimen name="search_result_text_size">16sp</dimen>
+    <dimen name="ingredients_text_size">12sp</dimen>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="details_page_margin">8dp</dimen>
+</resources>
